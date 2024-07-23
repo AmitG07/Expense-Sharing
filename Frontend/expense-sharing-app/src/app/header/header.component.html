@@ -1,0 +1,29 @@
+<div class="header">
+    <div class="left" *ngIf="userName == null">
+      <a routerLink="/homepage" [routerLinkActive]="['active']" class="topic">Expense Sharing</a>
+      <a routerLink="/homepage/login" [routerLinkActive]="['active']">Login</a>
+    </div>
+  
+    <div class="right" *ngIf="userName">
+      <a routerLink="/homepage" [routerLinkActive]="['active']" class="topic">Expense Sharing</a>
+  
+      <div class="actions" *ngIf="role">
+        <a routerLink="/create-group" class="nav-link">Create Group</a>
+        <a routerLink="/my-group" class="nav-link">My Groups</a>
+        <a routerLink="/admin/user-details" class="nav-link">User Details</a>
+        <a routerLink="/groups-invited-to" class="nav-link">Groups Invited To</a>
+      </div>
+  
+      <div class="actions" *ngIf="!role">
+        <a routerLink="/create-group" class="nav-link">Create Group</a>
+        <a routerLink="/my-group" class="nav-link">My Groups</a>
+        <a routerLink="/groups-invited-to" class="nav-link">Groups Invited To</a>
+      </div>
+  
+    </div>
+    <div class="info" *ngIf="userName">
+      <a routerLink="/my-details" class="nav-link"><b>{{ userName }}</b></a>
+      <span class="spacer"></span> <!-- Spacer for alignment -->
+      <a (click)="LogoutButton()" class="logout-link">Logout</a>
+    </div>        
+  </div>

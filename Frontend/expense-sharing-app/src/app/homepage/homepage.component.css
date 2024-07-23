@@ -1,0 +1,17 @@
+.edit {
+  cursor: pointer;
+  margin-right: 10px;
+  color: #007bff;
+}
+
+.delete {
+  cursor: pointer;
+  margin-right: 10px;
+  color: #dc3545;
+}
+
+.view{
+  cursor: pointer;
+  margin-right: 10px;
+  color: green;
+}

@@ -1,0 +1,285 @@
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\appsettings.json
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\ExpenseSharing.exe
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\ExpenseSharing.deps.json
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\ExpenseSharing.runtimeconfig.json
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\ExpenseSharing.dll
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\ExpenseSharing.pdb
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\ExpenseSharing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\ExpenseSharing.AssemblyInfoInputs.cache
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\ExpenseSharing.AssemblyInfo.cs
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\ExpenseSharing.csproj.CoreCompileInputs.cache
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\ExpenseSharing.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\staticwebassets\msbuild.ExpenseSharing.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\staticwebassets\msbuild.build.ExpenseSharing.props
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ExpenseSharing.props
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ExpenseSharing.props
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\scopedcss\bundle\ExpenseSharing.styles.css
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\ExpenseSharing.dll
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\refint\ExpenseSharing.dll
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\ExpenseSharing.pdb
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\ExpenseSharing.genruntimeconfig.cache
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\ref\ExpenseSharing.dll
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Humanizer.dll
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\BusinessObjectLayer.dll
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\BusinessObjectLayer.pdb
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\ExpenseSharing.csproj.AssemblyReference.cache
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\ExpenseSharing.csproj.CopyComplete
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\amit04\Downloads\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Dapper.dll
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\appsettings.json
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\ExpenseSharing.exe
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\ExpenseSharing.deps.json
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\ExpenseSharing.runtimeconfig.json
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\ExpenseSharing.dll
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\ExpenseSharing.pdb
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Dapper.dll
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Humanizer.dll
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\BusinessObjectLayer.dll
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\BusinessObjectLayer.pdb
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\ExpenseSharing.csproj.AssemblyReference.cache
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\ExpenseSharing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\ExpenseSharing.AssemblyInfoInputs.cache
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\ExpenseSharing.AssemblyInfo.cs
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\ExpenseSharing.csproj.CoreCompileInputs.cache
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\ExpenseSharing.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\staticwebassets\msbuild.ExpenseSharing.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\staticwebassets\msbuild.build.ExpenseSharing.props
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ExpenseSharing.props
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ExpenseSharing.props
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\scopedcss\bundle\ExpenseSharing.styles.css
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\ExpenseSharing.csproj.CopyComplete
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\ExpenseSharing.dll
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\refint\ExpenseSharing.dll
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\ExpenseSharing.pdb
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\ExpenseSharing.genruntimeconfig.cache
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\ref\ExpenseSharing.dll
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\appsettings.json
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\ExpenseSharing.exe
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\ExpenseSharing.deps.json
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\ExpenseSharing.runtimeconfig.json
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\ExpenseSharing.dll
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\ExpenseSharing.pdb
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Dapper.dll
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Humanizer.dll
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\BusinessObjectLayer.dll
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\BusinessObjectLayer.pdb
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\ExpenseSharing.csproj.AssemblyReference.cache
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\ExpenseSharing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\ExpenseSharing.AssemblyInfoInputs.cache
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\ExpenseSharing.AssemblyInfo.cs
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\ExpenseSharing.csproj.CoreCompileInputs.cache
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\ExpenseSharing.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\staticwebassets\msbuild.ExpenseSharing.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\staticwebassets\msbuild.build.ExpenseSharing.props
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ExpenseSharing.props
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ExpenseSharing.props
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\scopedcss\bundle\ExpenseSharing.styles.css
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\ExpenseSharing.csproj.CopyComplete
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\ExpenseSharing.dll
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\refint\ExpenseSharing.dll
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\ExpenseSharing.pdb
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\ExpenseSharing.genruntimeconfig.cache
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\ref\ExpenseSharing.dll
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\appsettings.json
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\ExpenseSharing.exe
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\ExpenseSharing.deps.json
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\ExpenseSharing.runtimeconfig.json
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\ExpenseSharing.dll
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\ExpenseSharing.pdb
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Dapper.dll
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Humanizer.dll
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\BusinessObjectLayer.dll
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\BusinessObjectLayer.pdb
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\ExpenseSharing.csproj.AssemblyReference.cache
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\ExpenseSharing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\ExpenseSharing.AssemblyInfoInputs.cache
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\ExpenseSharing.AssemblyInfo.cs
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\ExpenseSharing.csproj.CoreCompileInputs.cache
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\ExpenseSharing.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\staticwebassets\msbuild.ExpenseSharing.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\staticwebassets\msbuild.build.ExpenseSharing.props
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ExpenseSharing.props
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ExpenseSharing.props
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\scopedcss\bundle\ExpenseSharing.styles.css
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\ExpenseSharing.csproj.CopyComplete
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\ExpenseSharing.dll
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\refint\ExpenseSharing.dll
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\ExpenseSharing.pdb
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\ExpenseSharing.genruntimeconfig.cache
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\obj\Debug\net6.0\ref\ExpenseSharing.dll
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\ExpenseSharing\bin\Debug\net6.0\CoverletSourceRootsMapping_ExpenseSharing

@@ -1,0 +1,44 @@
+C:\Users\amit04\Downloads\ExpenseSharing\BusinessObjectLayer\bin\Debug\net6.0\BusinessObjectLayer.deps.json
+C:\Users\amit04\Downloads\ExpenseSharing\BusinessObjectLayer\bin\Debug\net6.0\BusinessObjectLayer.dll
+C:\Users\amit04\Downloads\ExpenseSharing\BusinessObjectLayer\bin\Debug\net6.0\BusinessObjectLayer.pdb
+C:\Users\amit04\Downloads\ExpenseSharing\BusinessObjectLayer\obj\Debug\net6.0\BusinessObjectLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amit04\Downloads\ExpenseSharing\BusinessObjectLayer\obj\Debug\net6.0\BusinessObjectLayer.AssemblyInfoInputs.cache
+C:\Users\amit04\Downloads\ExpenseSharing\BusinessObjectLayer\obj\Debug\net6.0\BusinessObjectLayer.AssemblyInfo.cs
+C:\Users\amit04\Downloads\ExpenseSharing\BusinessObjectLayer\obj\Debug\net6.0\BusinessObjectLayer.csproj.CoreCompileInputs.cache
+C:\Users\amit04\Downloads\ExpenseSharing\BusinessObjectLayer\obj\Debug\net6.0\BusinessObjectLayer.dll
+C:\Users\amit04\Downloads\ExpenseSharing\BusinessObjectLayer\obj\Debug\net6.0\refint\BusinessObjectLayer.dll
+C:\Users\amit04\Downloads\ExpenseSharing\BusinessObjectLayer\obj\Debug\net6.0\BusinessObjectLayer.pdb
+C:\Users\amit04\Downloads\ExpenseSharing\BusinessObjectLayer\obj\Debug\net6.0\ref\BusinessObjectLayer.dll
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\BusinessObjectLayer\bin\Debug\net6.0\BusinessObjectLayer.deps.json
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\BusinessObjectLayer\bin\Debug\net6.0\BusinessObjectLayer.dll
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\BusinessObjectLayer\bin\Debug\net6.0\BusinessObjectLayer.pdb
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\BusinessObjectLayer\obj\Debug\net6.0\BusinessObjectLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\BusinessObjectLayer\obj\Debug\net6.0\BusinessObjectLayer.AssemblyInfoInputs.cache
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\BusinessObjectLayer\obj\Debug\net6.0\BusinessObjectLayer.AssemblyInfo.cs
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\BusinessObjectLayer\obj\Debug\net6.0\BusinessObjectLayer.csproj.CoreCompileInputs.cache
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\BusinessObjectLayer\obj\Debug\net6.0\BusinessObjectLayer.dll
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\BusinessObjectLayer\obj\Debug\net6.0\refint\BusinessObjectLayer.dll
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\BusinessObjectLayer\obj\Debug\net6.0\BusinessObjectLayer.pdb
+C:\Users\amit04\Downloads\Expense Sharing App\ExpenseSharing\BusinessObjectLayer\obj\Debug\net6.0\ref\BusinessObjectLayer.dll
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\BusinessObjectLayer\bin\Debug\net6.0\BusinessObjectLayer.deps.json
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\BusinessObjectLayer\bin\Debug\net6.0\BusinessObjectLayer.dll
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\BusinessObjectLayer\bin\Debug\net6.0\BusinessObjectLayer.pdb
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\BusinessObjectLayer\obj\Debug\net6.0\BusinessObjectLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\BusinessObjectLayer\obj\Debug\net6.0\BusinessObjectLayer.AssemblyInfoInputs.cache
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\BusinessObjectLayer\obj\Debug\net6.0\BusinessObjectLayer.AssemblyInfo.cs
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\BusinessObjectLayer\obj\Debug\net6.0\BusinessObjectLayer.csproj.CoreCompileInputs.cache
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\BusinessObjectLayer\obj\Debug\net6.0\BusinessObjectLayer.dll
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\BusinessObjectLayer\obj\Debug\net6.0\refint\BusinessObjectLayer.dll
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\BusinessObjectLayer\obj\Debug\net6.0\BusinessObjectLayer.pdb
+C:\Users\amit04\Downloads\Expense Sharing App\Backend\ExpenseSharing\BusinessObjectLayer\obj\Debug\net6.0\ref\BusinessObjectLayer.dll
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\BusinessObjectLayer\bin\Debug\net6.0\BusinessObjectLayer.deps.json
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\BusinessObjectLayer\bin\Debug\net6.0\BusinessObjectLayer.dll
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\BusinessObjectLayer\bin\Debug\net6.0\BusinessObjectLayer.pdb
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\BusinessObjectLayer\obj\Debug\net6.0\BusinessObjectLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\BusinessObjectLayer\obj\Debug\net6.0\BusinessObjectLayer.AssemblyInfoInputs.cache
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\BusinessObjectLayer\obj\Debug\net6.0\BusinessObjectLayer.AssemblyInfo.cs
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\BusinessObjectLayer\obj\Debug\net6.0\BusinessObjectLayer.csproj.CoreCompileInputs.cache
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\BusinessObjectLayer\obj\Debug\net6.0\BusinessObjectLayer.dll
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\BusinessObjectLayer\obj\Debug\net6.0\refint\BusinessObjectLayer.dll
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\BusinessObjectLayer\obj\Debug\net6.0\BusinessObjectLayer.pdb
+C:\Users\amit04\OneDrive - Nagarro\Amit-Batch 01-Mar-23 (Testing Assignment)\Expense Sharing App\Backend\ExpenseSharing\BusinessObjectLayer\obj\Debug\net6.0\ref\BusinessObjectLayer.dll

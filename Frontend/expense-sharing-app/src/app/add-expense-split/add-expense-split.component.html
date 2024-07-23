@@ -1,0 +1,33 @@
+<div class="card-container">
+    <div class="card">
+      <div class="card-header">
+        <h3 class="text-center">Add Expense</h3>
+      </div>
+      <form [formGroup]="addExpenseSplitForm" (ngSubmit)="addExpenseSplit()" class="card-body">
+        <div class="form-group">
+          <label for="ExpenseId">Expense ID</label>
+          <input type="text" class="form-control" formControlName="ExpenseId" [value]="currentExpenseId" [disabled]="true">
+        </div>
+        <div class="form-group">
+          <label for="SplitWithUserID">Split With User ID</label>
+          <input type="number" class="form-control" formControlName="SplitWithUserID" placeholder="Enter Split With User ID">
+        </div>
+        <div class="form-group">
+          <label for="SplitAmount">Split Amount</label>
+          <input type="number" class="form-control" formControlName="SplitAmount" placeholder="Enter Split Amount">
+        </div>
+        <div class="form-group">
+          <label for="Date">Created Date</label>
+          <input type="date" class="form-control" formControlName="ExpenseSplitCreatedAt">
+        </div>
+        <div class="form-group form-check">
+          <input type="checkbox" class="form-check-input" formControlName="IsSettled" id="IsSettled">
+          <label class="form-check-label" for="IsSettled">Is Settled</label>
+        </div>
+        <div class="text-center">
+          <button type="submit" class="btn btn-primary">Add Expense Split</button>
+        </div>
+      </form>
+    </div>
+  </div>
+    

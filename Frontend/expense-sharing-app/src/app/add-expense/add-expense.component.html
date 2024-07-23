@@ -1,0 +1,36 @@
+<div class="card-container">
+  <div class="card">
+    <div class="card-header">
+      <h3 class="text-center">Add Expense</h3>
+    </div>
+    <form [formGroup]="addExpenseForm" (ngSubmit)="addExpense()" class="card-body">
+      <div class="form-group">
+        <label for="GroupId">Group ID</label>
+        <input type="text" class="form-control" formControlName="GroupId" [value]="currentGroupId" [disabled]="true">
+      </div>
+      <div class="form-group">
+        <label for="Description">Description</label>
+        <textarea class="form-control" formControlName="Description" rows="3" placeholder="Enter Expense Description"></textarea>
+      </div>
+      <div class="form-group">
+        <label for="Amount">Amount</label>
+        <input type="number" class="form-control" formControlName="ExpenseAmount" placeholder="Enter Amount">
+      </div>
+      <div class="form-group">
+        <label for="PaidByUserId">Paid By User ID</label>
+        <input type="number" class="form-control" formControlName="PaidByUserId" placeholder="Enter User ID who Paid">
+        <div *ngIf="addExpenseForm.get('PaidByUserId').hasError('notGroupMember')" class="text-danger">
+          User is not a member of the specified group.
+        </div>
+      </div>      
+      <div class="form-group">
+        <label for="Date">Date</label>
+        <input type="date" class="form-control" formControlName="ExpenseCreatedAt">
+      </div>
+      <div class="text-center">
+        <button type="submit" class="btn btn-primary">Add Expense</button>
+      </div>
+    </form>
+  </div>
+</div>
+  

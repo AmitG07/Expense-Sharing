@@ -1,0 +1,106 @@
+:root {
+    --bg-color: ;
+}
+
+.topic {
+    font-size: 21px;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    color: rgb(245, 245, 245);
+    height: 10dvh;
+    position: static;
+    width: 100%;
+    padding-left: 1rem;
+    justify-content: space-between;
+    background-color: brown;
+}
+
+.left {
+    justify-self: flex-start;
+    display: flex;
+    align-items: center;
+}
+
+.active {
+    color: white;
+}
+
+button {
+    color: var(--bg-color);
+    cursor: pointer;
+    background-color: white;
+}
+
+a {
+    margin-left: 0.5rem;
+    font-weight: bold;
+    color: var(--bg-color);
+    text-decoration: none;
+    cursor: pointer;
+    font-size: medium;
+    margin: 10px;
+}
+
+a:hover {
+    color: rgba(255, 255, 255, 0.79);
+}
+
+.right {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.actions {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.info {
+    display: flex;
+    align-items: center;
+    margin-right: 1%; 
+}
+
+@media (max-width: 768px) {
+    .header {
+        flex-direction: column;
+        height: auto;
+        padding: 1rem;
+    }
+
+    .left,
+    .right {
+        width: 100%;
+        justify-content: center;
+        margin-bottom: 1rem;
+    }
+
+    .right .actions,
+    .right .info {
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+@media (max-width: 576px) {
+    .header {
+        padding: 0.5rem;
+    }
+
+    .topic {
+        font-size: 18px;
+    }
+
+    .actions a {
+        font-size: 14px;
+    }
+
+    .info b {
+        font-size: 14px;
+    }
+}

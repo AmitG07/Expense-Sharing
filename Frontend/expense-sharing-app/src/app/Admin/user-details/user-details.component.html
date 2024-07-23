@@ -1,0 +1,28 @@
+<div class="card my-groups-container">
+    <div class="card-header bg-primary text-white">
+        <h2 class="mb-0 text-center">User Details</h2>
+    </div>
+    <div class="card-body">
+        <table *ngIf="userGroups && userGroups.length > 0; else noGroups" class="table table-hover table-bordered">
+            <thead class="thead-dark">
+                <tr>
+                    <th scope="col">User ID</th>
+                    <th scope="col">Name</th>
+                    <th scope="col">Email ID</th>
+                    <th scope="col">Is Admin</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let user of userGroups">
+                    <td>{{ user.userId }}</td>
+                    <td>{{ user.name }}</td>
+                    <td>{{ user.emailId }}</td>
+                    <td>{{ user.isAdmin ? 'Yes' : 'No' }}</td>
+                </tr>
+            </tbody>
+        </table>
+        <ng-template #noGroups>
+            <p class="text-center">You do not have any users yet.</p>
+        </ng-template>
+    </div>
+</div>

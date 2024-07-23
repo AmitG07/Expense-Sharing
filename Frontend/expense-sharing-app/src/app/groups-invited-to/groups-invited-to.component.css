@@ -1,0 +1,79 @@
+:root {
+    --primary-color: #007bff; /* Bootstrap primary color */
+    --header-bg-color: #007bff; /* Custom primary color for the header */
+    --header-text-color: rgba(0, 0, 0, 0.301); /* Color for the header text */
+    --button-primary-color: #007bff; /* Color for primary buttons */
+    --button-danger-color: #dc3545; /* Color for danger buttons */
+    --card-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Card shadow effect */
+  }
+  
+  .my-groups-container {
+    padding: 2rem;
+    max-width: 900px;
+    margin: auto;
+    border: 1px solid #ddd;
+    border-radius: 0.5rem;
+    box-shadow: var(--card-shadow);
+    margin-top: 20px;
+  }
+  
+  .card-header {
+    background-color: var(--header-bg-color);
+    color: var(--header-text-color);
+    padding: 1rem;
+    border-bottom: 1px solid #ddd;
+    border-top-left-radius: 0.5rem;
+    border-top-right-radius: 0.5rem;
+  }
+  
+  .table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 1rem;
+    background-color: white;
+  }
+  
+  .table th,
+  .table td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: left;
+  }
+  
+  .table th {
+    background-color: var(--primary-color);
+    color: var(--header-text-color);
+    font-weight: bold;
+  }
+  
+  .table-hover tbody tr:hover {
+    background-color: #f5f5f5;
+  }
+  
+  .action-btn {
+    margin-right: 0.5rem;
+  }
+  
+  .action-btn:last-child {
+    margin-right: 0;
+  }
+  
+  .edit {
+    cursor: pointer;
+    margin-right: 10px; /* Adjust spacing as needed */
+    color: #007bff;
+  }
+  
+  .delete {
+    cursor: pointer;
+    margin-right: 10px; /* Adjust spacing as needed */
+    color: #dc3545;
+  }
+
+  .view{
+    cursor: pointer;
+    margin-right: 10px;
+    /* Adjust spacing as needed */
+    color: green;
+  }
+  

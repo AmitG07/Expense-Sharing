@@ -1,0 +1,24 @@
+<div class="card-container">
+  <div class="card">
+    <div class="card-header">
+      <h3>Update Group</h3>
+    </div>
+    <form [formGroup]="updateGroupForm" (ngSubmit)="updateGroup()" class="card-body">
+      <div class="form-group">
+        <label for="GroupName">Group Name</label>
+        <input type="text" class="form-control" formControlName="GroupName" placeholder="Enter Group Name">
+      </div>
+      <div class="form-group">
+        <label for="Description">Description</label>
+        <textarea class="form-control" formControlName="Description" rows="3" placeholder="Enter Group Description"></textarea>
+      </div>
+      <div class="form-group">
+        <label for="CreatedDate">Created Date</label>
+        <input type="date" class="form-control" formControlName="CreatedDate">
+      </div>
+      <div class="text-center">
+        <button type="submit" class="btn btn-primary">Update Group</button>
+      </div>
+    </form>
+  </div>
+</div>

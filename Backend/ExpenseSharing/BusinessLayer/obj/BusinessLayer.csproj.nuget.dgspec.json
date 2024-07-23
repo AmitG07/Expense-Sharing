@@ -1,0 +1,210 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\amit04\\Downloads\\Expense Sharing App\\Backend\\ExpenseSharing\\BusinessLayer\\BusinessLayer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\amit04\\Downloads\\Expense Sharing App\\Backend\\ExpenseSharing\\BusinessLayer\\BusinessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\amit04\\Downloads\\Expense Sharing App\\Backend\\ExpenseSharing\\BusinessLayer\\BusinessLayer.csproj",
+        "projectName": "BusinessLayer",
+        "projectPath": "C:\\Users\\amit04\\Downloads\\Expense Sharing App\\Backend\\ExpenseSharing\\BusinessLayer\\BusinessLayer.csproj",
+        "packagesPath": "C:\\Users\\amit04\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\amit04\\Downloads\\Expense Sharing App\\Backend\\ExpenseSharing\\BusinessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\amit04\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\amit04\\Downloads\\Expense Sharing App\\Backend\\ExpenseSharing\\BusinessObjectLayer\\BusinessObjectLayer.csproj": {
+                "projectPath": "C:\\Users\\amit04\\Downloads\\Expense Sharing App\\Backend\\ExpenseSharing\\BusinessObjectLayer\\BusinessObjectLayer.csproj"
+              },
+              "C:\\Users\\amit04\\Downloads\\Expense Sharing App\\Backend\\ExpenseSharing\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\amit04\\Downloads\\Expense Sharing App\\Backend\\ExpenseSharing\\DataAccessLayer\\DataAccessLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\amit04\\Downloads\\Expense Sharing App\\Backend\\ExpenseSharing\\BusinessObjectLayer\\BusinessObjectLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\amit04\\Downloads\\Expense Sharing App\\Backend\\ExpenseSharing\\BusinessObjectLayer\\BusinessObjectLayer.csproj",
+        "projectName": "BusinessObjectLayer",
+        "projectPath": "C:\\Users\\amit04\\Downloads\\Expense Sharing App\\Backend\\ExpenseSharing\\BusinessObjectLayer\\BusinessObjectLayer.csproj",
+        "packagesPath": "C:\\Users\\amit04\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\amit04\\Downloads\\Expense Sharing App\\Backend\\ExpenseSharing\\BusinessObjectLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\amit04\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\amit04\\Downloads\\Expense Sharing App\\Backend\\ExpenseSharing\\DataAccessLayer\\DataAccessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\amit04\\Downloads\\Expense Sharing App\\Backend\\ExpenseSharing\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectName": "DataAccessLayer",
+        "projectPath": "C:\\Users\\amit04\\Downloads\\Expense Sharing App\\Backend\\ExpenseSharing\\DataAccessLayer\\DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\amit04\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\amit04\\Downloads\\Expense Sharing App\\Backend\\ExpenseSharing\\DataAccessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\amit04\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\amit04\\Downloads\\Expense Sharing App\\Backend\\ExpenseSharing\\BusinessObjectLayer\\BusinessObjectLayer.csproj": {
+                "projectPath": "C:\\Users\\amit04\\Downloads\\Expense Sharing App\\Backend\\ExpenseSharing\\BusinessObjectLayer\\BusinessObjectLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.31, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.31, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.31, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

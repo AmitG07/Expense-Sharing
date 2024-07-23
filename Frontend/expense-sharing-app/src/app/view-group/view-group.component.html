@@ -1,0 +1,100 @@
+<div class="container mt-4">
+  <div class="card" *ngIf="groupDetails">
+    <div class="card-header bg-primary text-white">
+      <h3 class="card-title mb-2">{{ groupDetails.groupName }}</h3>
+      <h4 class="card-subtitle">Group ID: {{ groupDetails.groupId }}</h4>
+    </div>
+    <div class="card-body">
+      <p class="card-text"><strong>Description:</strong> {{ groupDetails.description }}</p>
+      <p class="card-text"><strong>Created Date:</strong> {{ groupDetails.createdDate | date:'MMMM d, y' }}</p>
+      <p class="card-text"><strong>Group Admin:</strong> {{ groupAdminName }}</p>
+      <p><strong>Total Members:</strong> {{ groupDetails.totalMembers }}</p>
+      <p><strong>Total Expenses:</strong> {{ groupDetails.totalExpense }}</p>
+    </div>
+    <div class="card-footer">
+      <a *ngIf="canAddExpense()" (click)="onAddExpenseClick()" class="btn btn-primary mr-2">
+        <i class="fas fa-plus-circle"></i> Add Expense
+      </a>
+      <a *ngIf="isGroupAdmin() && !expenseButtonClicked" [routerLink]="'/add-group-members/' + groupDetails.groupId" class="btn btn-warning">
+        <i class="fas fa-plus-circle"></i> Add Group Members
+      </a>
+    </div>
+  </div>
+
+  <div class="text-center mt-4" *ngIf="!groupDetails">
+    <p>Loading...</p>
+  </div>
+</div>
+
+<!-- Displaying Group Members -->
+<div class="container mt-4" *ngIf="groupMembersLoaded">
+  <div class="card">
+    <div class="card-header bg-success text-white">
+      <h2 class="card-title">Group Members for Group: {{ groupDetails.groupName }}</h2>
+    </div>
+    <div class="card-body">
+      <ul class="list-group">
+        <li class="list-group-item" *ngFor="let member of groupMembers">
+          <div class="row d-flex align-items-center">
+            <div class="col-9">
+              <h5 class="mb-1">{{ member.userName }}</h5>
+              <p class="mb-1">{{ member.emailId }}</p>
+              <p class="mb-1">Available Balance: {{ member.availableBalance | currency: 'INR' }}</p>
+              <p class="mb-1">Total Spend: {{ member.userExpense | currency: 'INR' }}</p>
+            </div>
+            <div class="col-3 text-right">
+              <a *ngIf="isGroupAdmin()" [routerLink]="'/update-group-member/' + member.groupMemberId" class="btn btn-outline-secondary">
+                <i class="fas fa-edit"></i> Update Member Details
+              </a>
+            </div>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div class="text-center mt-4" *ngIf="!groupMembersLoaded && groupDetails">
+  <p>Loading group members...</p>
+</div>
+
+<!-- Displaying Expenses -->
+<div class="container mt-4" *ngIf="hasExpenses">
+  <div class="card">
+    <div class="card-header bg-info text-white">
+      <h2 class="card-title">Expenses for Group: {{ groupDetails.groupName }}</h2>
+    </div>
+    <div class="card-body">
+      <table class="table table-hover">
+        <thead class="thead-dark">
+          <tr>
+            <th scope="col">Description</th>
+            <th scope="col">Amount</th>
+            <th scope="col">Paid By User ID</th>
+            <th scope="col">Date</th>
+            <th scope="col">Is Settled</th>
+            <th>Actions</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let expense of expenses">
+            <td>{{ expense.description }}</td>
+            <td>{{ expense.expenseAmount }}</td>
+            <td>{{ expense.paidByUserId }}</td>
+            <td>{{ expense.expenseCreatedAt | date:'MMMM d, y' }}</td>
+            <td>{{ expense.isSettled ? 'Yes' : 'No' }}</td>
+            <td>
+              <a *ngIf="canEditOrDelete()" [routerLink]="'/update-expense/' + expense.expenseId" class="btn btn-outline-secondary mr-2"><i class="fas fa-edit"></i></a>
+              <a [routerLink]="'/view-expense/' + expense.expenseId" class="btn btn-outline-success mr-2"><i class="fas fa-eye"></i></a>
+              <button *ngIf="canEditOrDelete()" (click)="deleteExpense(expense.expenseId)" class="btn btn-outline-danger"><i class="fas fa-trash-alt"></i></button>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div class="text-center mt-4" *ngIf="!hasExpenses && groupDetails">
+  <p>No expenses found for this group.</p>
+</div>

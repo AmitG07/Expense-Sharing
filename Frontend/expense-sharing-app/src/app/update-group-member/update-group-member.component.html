@@ -1,0 +1,33 @@
+<div class="card-container">
+    <div class="card">
+      <div class="card-header">
+        <h3 class="text-center">Update Group Member</h3>
+      </div>
+      <form [formGroup]="updateGroupMemberForm" (ngSubmit)="updateGroupMember()" class="card-body">
+        <div class="form-group">
+          <label for="GroupId">Group ID</label>
+          <input type="text" class="form-control" formControlName="GroupId" [value]="groupId" [disabled]>
+        </div>
+        <div class="form-group">
+          <label for="UserId">User ID</label>
+          <input type="number" class="form-control" formControlName="UserId" placeholder="Enter User ID">
+        </div>
+        <div class="form-group">
+          <label for="UserExpense">User Expense</label>
+          <input type="number" class="form-control" formControlName="UserExpense" placeholder="Enter User Expense">
+        </div>
+        <div class="form-group">
+          <label for="GivenAmount">Given Amount</label>
+          <input type="number" class="form-control" formControlName="GivenAmount" placeholder="Enter Given Amount">
+        </div>
+        <div class="form-group">
+            <label for="TakenAmount">Taken Amount</label>
+            <input type="number" class="form-control" formControlName="TakenAmount" placeholder="Enter Taken Amount">
+        </div>          
+        <div class="text-center">
+          <button type="submit" class="btn btn-primary">Update Group Member</button>
+        </div>
+      </form>
+    </div>
+  </div>
+  

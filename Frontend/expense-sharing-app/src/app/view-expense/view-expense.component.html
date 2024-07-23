@@ -1,0 +1,44 @@
+<div class="card-container">
+  <div class="card">
+    <div class="card-header bg-primary text-white">
+      <h3>Expense Details</h3>
+    </div>
+    <div class="card-body">
+      <div *ngIf="expense">
+        <div class="expense-details">
+          <div class="expense-item">
+            <div class="expense-label">Group ID:</div>
+            <div class="expense-value">{{ expense.groupId }}</div>
+          </div>
+          <div class="expense-item">
+            <div class="expense-label">Description:</div>
+            <div class="expense-value">{{ expense.description }}</div>
+          </div>
+          <div class="expense-item">
+            <div class="expense-label">Amount:</div>
+            <div class="expense-value">{{ expense.expenseAmount }}</div>
+          </div>
+          <div class="expense-item">
+            <div class="expense-label">Paid By User ID:</div>
+            <div class="expense-value">{{ expense.paidByUserId }}</div>
+          </div>
+          <div class="expense-item">
+            <div class="expense-label">Date:</div>
+            <div class="expense-value">{{ expense.expenseCreatedAt | date:'MMMM d, y' }}</div>
+          </div>
+          <div class="expense-item">
+            <div class="expense-label">Is Settled:</div>
+            <div class="expense-value">{{ expense.isSettled ? 'Yes' : 'No' }}</div>
+          </div>
+        </div>
+      </div>
+      <ng-template #noExpenses>
+        <p class="text-center">No expenses found for this group.</p>
+      </ng-template>
+    </div>
+    <div class="card-footer text-center">
+      <a *ngIf="groupAdminId === loggedInUserId && expense.isSettled==false" (click)="UpdateSettledStatus()" class="btn btn-primary mr-2">
+        Update Settled
+      </a> 
+  </div>
+</div>
